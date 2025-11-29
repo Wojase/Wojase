@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Wojase<br>👀 I’m interested in programing, hacking, gaming<br>🌱 I’m currently learning C#, js, python, java, css, html<br>⚡ Fun fact: I love making hacking programs and creating sites
+👋 Hi, I’m @Wojase<br>👀 I’m interested in programing, hacking, gaming<br>🌱 I’m currently learning C#, js, python, css<br>⚡ Fun fact: I love making hacking programs and creating sites
 
 
 ## 🌐 Socials:
